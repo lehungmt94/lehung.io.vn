@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Hùng Lê - Profile CV</title>
+    <link href="https://lehung.io.vn/feed.xml" rel="self" />
+    <link href="https://lehung.io.vn" />
+    <updated>2024-02-21T21:34:41+07:00</updated>
+    <author>
+        <name>Hùng Lê</name>
+    </author>
+    <id>https://lehung.io.vn</id>
+
+    <entry>
+        <title>demo C Code</title>
+        <author>
+            <name>Hùng Lê</name>
+        </author>
+        <link href="https://lehung.io.vn/demo-c-code.html"/>
+        <id>https://lehung.io.vn/demo-c-code.html</id>
+
+        <updated>2024-02-21T21:34:41+07:00</updated>
+            <summary>
+                <![CDATA[
+                    #include &lt;stdio.h&gt; int main() { int number; printf("Enter an integer: "); // reads and stores input scanf("%d", &amp;number); // displays output printf("You entered:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <pre class="language-c"><code>#include &lt;stdio.h&gt;
+int main() {   
+    int number;
+   
+    printf("Enter an integer: ");  
+    
+    // reads and stores input
+    scanf("%d", &amp;number);
+
+    // displays output
+    printf("You entered: %d", number);
+    
+    return 0;
+}</code></pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lập Trình STM32</title>
+        <author>
+            <name>Hùng Lê</name>
+        </author>
+        <link href="https://lehung.io.vn/lap-trinh-stm32.html"/>
+        <id>https://lehung.io.vn/lap-trinh-stm32.html</id>
+
+        <updated>2024-02-21T20:31:54+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Update soon!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Update soon!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Học MSP430</title>
+        <author>
+            <name>Hùng Lê</name>
+        </author>
+        <link href="https://lehung.io.vn/hoc-msp430.html"/>
+        <id>https://lehung.io.vn/hoc-msp430.html</id>
+
+        <updated>2021-08-21T13:18:40+07:00</updated>
+            <summary>
+                <![CDATA[
+                    sdfsd sdfdsb sd s
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>sdfsd sdfdsb sd s</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Giới thiệu</title>
+        <author>
+            <name>Hùng Lê</name>
+        </author>
+        <link href="https://lehung.io.vn/thong-tin-ca-nhan.html"/>
+        <id>https://lehung.io.vn/thong-tin-ca-nhan.html</id>
+
+        <updated>2024-01-30T21:18:27+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Kỹ năng công việc: Embedded hardware, Firmware Phần cứng đã từng làm: CC2530 Zigbee, STM32, Esp8266 Phần mềm thành thạo: Alitum, IAR Kỹ&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="1"><center><a href="https://lehung.io.vn/media/posts/2/gallery/116793378_2777112029196280_2322593398527665453_n.jpg" data-size="1334x1334"><img loading="lazy" src="https://lehung.io.vn/media/posts/2/gallery/116793378_2777112029196280_2322593398527665453_n-thumbnail.jpg" alt="" width="320px" height="320px"></a></center></div></div>
+<p>Kỹ năng công việc: Embedded hardware, Firmware<br>Phần cứng đã từng làm: CC2530 Zigbee, STM32, Esp8266<br>Phần mềm thành thạo: Alitum, IAR<br>Kỹ năng lập trình: C/C++, Linux, C#<br>Kinh nghiệm thực chiến với các hệ điều hành nhúng: Linux Raspbian, Free RTOS, UCOS II</p>
+<p><strong>Trích dẫn:</strong></p>
+<p>Chỉ cần đó là điều mà bạn thực sự mong muốn cả thế giới này sẽ chung sức giúp bạn</p>
+<p><strong>Thông tin liên hệ</strong></p>
+<ul>
+<li><strong>Facebook</strong>: <a href="https://fb.com/riosun194">fb.com/riosun194</a><a href="#INTERNAL_LINK#/post/null"></a></li>
+<li><strong>Email</strong>: <a href="mailto:lehungmt94@gmail.com">lehungmt94@gmail.com</a></li>
+<li><strong>Số điện thoại  &amp; Zalo</strong>: <a href="tel:0359174217">0359174217</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
